@@ -38,8 +38,7 @@ header{
     text-shadow: 0.2rem 0.2rem hsl(120,10%, 50%);
     font-size: 2rem;
     background-image: url(../img/img01.jpg);
-    background-size: cover;
-
+    background-size: 750px 300px;
 /*    min-height: 400px;*/
     background-repeat: no-repeat;
 }
