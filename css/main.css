@@ -39,7 +39,11 @@ header{
     font-size: 2rem;
     background-image: url(../img/img01.jpg);
     background-size: cover;
+<<<<<<< HEAD
 /*    min-height: 400px;*/
+=======
+    min-height: 800px;
+>>>>>>> 715b932949622b3cf8b365cad0671a396ea2b074
     background-repeat: no-repeat;
 }
 
